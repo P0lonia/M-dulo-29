@@ -7,7 +7,7 @@ const Projeto = () => (
   <Card>
     <Titulo>Projeto lista de tarefas</Titulo>
     <Paragrafo tipo="secundario">Lista de tarefas feita com vueJS</Paragrafo>
-    <LinkBotao href="https://itch.io">Visualizar</LinkBotao>
+    <LinkBotao>Visualizar</LinkBotao>
   </Card>
 )
 
